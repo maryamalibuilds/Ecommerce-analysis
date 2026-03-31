@@ -1,0 +1,19 @@
+product,category,price,rating,units_sold,discount
+iPhone 15,Electronics,4200,4.7,150,5
+Samsung TV,Electronics,3000,4.5,90,10
+AirPods,Electronics,800,4.6,300,8
+Gaming Laptop,Electronics,5200,4.8,85,7
+Smart Watch,Electronics,1200,4.4,210,12
+Adidas Shoes,Fashion,600,4.2,220,15
+Nike Hoodie,Fashion,350,4.1,180,20
+Perfume,Fashion,250,4.3,260,10
+Abaya,Fashion,180,4.5,240,5
+Handbag,Fashion,950,4.2,110,18
+Blender,Home,200,4.0,120,10
+Microwave,Home,700,4.4,80,12
+Air Fryer,Home,450,4.6,170,14
+Vacuum Cleaner,Home,950,4.3,75,9
+Office Chair,Furniture,900,4.1,70,10
+Dining Table,Furniture,1500,4.3,50,6
+Study Desk,Furniture,750,4.4,95,11
+Bookshelf,Furniture,400,4.2,130,13

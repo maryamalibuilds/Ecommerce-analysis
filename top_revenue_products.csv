@@ -1,0 +1,6 @@
+product,category,price,rating,units_sold,discount,discounted_price,revenue,value_score
+iPhone 15,Electronics,4200,4.7,150,5,3990.0,598500.0,0.0011779448621553885
+Gaming Laptop,Electronics,5200,4.8,85,7,4836.0,411060.0,0.0009925558312655087
+Samsung TV,Electronics,3000,4.5,90,10,2700.0,243000.0,0.0016666666666666668
+Smart Watch,Electronics,1200,4.4,210,12,1056.0,221760.0,0.004166666666666667
+AirPods,Electronics,800,4.6,300,8,736.0,220800.0,0.0062499999999999995
