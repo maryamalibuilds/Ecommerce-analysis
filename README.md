@@ -3,11 +3,11 @@
 This project analyzes e-commerce product data to uncover category trends, pricing patterns, product performance, and sales behavior. It also builds a regression model to estimate units sold using product features.
 
 ## Features
-Data cleaning and preprocessing
-Category and product performance analysis
-Sales trend visualization
-Correlation and pricing analysis
-Sales prediction using regression
+- Data cleaning and preprocessing  
+- Category and product performance analysis  
+- Sales trend visualization  
+- Correlation and pricing analysis  
+- Sales prediction using regression  
 
 ## Tools Used
 - Python
